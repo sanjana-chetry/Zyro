@@ -2,8 +2,6 @@
 
 AI-Powered Insurance Assistant
 
-![Zyro Home Page](./screenshots/home.png)
-
 Zyro is an AI-powered assistant designed to make insurance easier to understand through conversational AI and interactive experiences. Instead of navigating complex policy documents, users can interact with Zyro to learn about insurance, ask questions, and even play quiz-based games.
 
 This project was developed during the **Bajaj Hackathon**, exploring how AI can improve user engagement and accessibility in insurance platforms.
@@ -101,7 +99,7 @@ Open the application in your browser.
 
 Below is the home interface of **Zyro**, the AI insurance assistant.
 
-![Zyro Interface](./zyro_screenshots/home.png)
+![Zyro Interface](./zyro%20screenshots/home.png)
 
 ---
 
